@@ -4,7 +4,7 @@
 * Plugin Name: Aanir Essentials
 * License - GNU/GPL V2 or Later
 * Description: This is a essential plugin for Aanir theme.
-* Version: 1.0
+* Version: 1.1.0
 * text domain: aanir-essential
 */
 
